@@ -1,0 +1,13 @@
+CPAN_AUTHOR=rgarcia
+inherit perl
+
+NAME="perl-Switch"
+VERSION=2.16
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="switch statement for Perl"
+DESCRIPTION="Switch.pm provides the syntax and semantics for an explicit case
+mechanism for Perl. The syntax is minimal, introducing only the keywords switch
+case and conforming to the general pattern of existing Perl control structures."
+
+ARCH=noarch
