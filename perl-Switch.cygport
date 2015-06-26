@@ -1,8 +1,8 @@
-CPAN_AUTHOR=rgarcia
+CPAN_AUTHOR=chorny
 inherit perl
 
 NAME="perl-Switch"
-VERSION=2.16
+VERSION=2.17
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="switch statement for Perl"
